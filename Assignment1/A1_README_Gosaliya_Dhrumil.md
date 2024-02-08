@@ -2,8 +2,8 @@
 
 * *Date Created*: 5 FEB 2024
 * *Last Modification Date*: 7 FEB 2024
-* *Assignment URL*: 
-* *Git URL*: 
+* *Assignment URL*: https://main--assignment1-helpdeskdhrumil.netlify.app/
+* *Git URL*: https://git.cs.dal.ca/gosaliya/csci5709-assignments/-/tree/main/Assignment1?ref_type=heads
 
 ## Authors
 
@@ -212,3 +212,8 @@ The code above was created by adapting the code in [Paper-plane icon](https://fo
 ```
 <FontAwesomeIcon icon={faPaperPlane} />
 ```
+
+## Acknowledgments
+
+* My sincere appreciation goes out to you for the priceless insights and unwavering commitment displayed in the code you provided, which have established a solid foundation for comprehending its complexities and features. 
+* Their participation has shaped my understanding of numerous techniques and methodologies and has given me profound insights. Their efforts and knowledge have been invaluable to my development, and I really appreciate them.
