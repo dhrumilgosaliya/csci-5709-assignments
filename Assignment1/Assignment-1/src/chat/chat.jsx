@@ -16,7 +16,7 @@ function Chat() {
       setTimeout(() => sendMessage('What is my balance?'));
       setLocation(false); // Update location to prevent sending messages again
     }
-  }, []);
+  }, [location]);
 
   // Function to get the message text from the input field
   const getMessageText = () => {
